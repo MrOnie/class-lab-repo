@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Ronie Martínez 
+- Certification: Introduction to version control - Meta
 
 ## Instructions
 Please replace the placeholders with your details:
